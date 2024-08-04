@@ -1,1 +1,27 @@
-
+{
+    "name": "all-day",
+    "version": "1.0.0",
+    "description": "Inventory Management and Prep List Generator",
+    "main": "index.js",
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "dependencies": {
+      "antd": "^4.0.0",
+      "@ant-design/icons": "^4.0.0",
+      "react-router-dom": "^5.0.0",
+      "@craco/craco": "^6.0.0",
+      "craco-less": "^1.0.0",
+      "axios": "^0.21.1",
+      "moment": "^2.29.1"
+    },
+    "devDependencies": {
+      "react-scripts": "4.0.3"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
