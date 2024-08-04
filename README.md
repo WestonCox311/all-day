@@ -1,5 +1,6 @@
 # All Day
 
+Warning: This is a proprietary codebase, it is only open for testing and initial rapid development. We are new and trying to help, please do not steal our code. 
 
 All Day is a system designed for small to medium-sized restaurants & cafes for inventory tracking, vendor management, and data-driven prep lists. It provides an easy-to-use interface for managing inventory, processing orders, and generating on-demand prep lists to cut down on wasted prep, overworking staff, and .
 
