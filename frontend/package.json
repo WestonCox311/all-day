@@ -1,7 +1,7 @@
 {
-    "name": "all-day",
+    "name": "all-day-frontend",
     "version": "1.0.0",
-    "description": "Inventory Management and Prep List Generator",
+    "description": "Frontend for All Day project",
     "main": "index.js",
     "scripts": {
       "start": "react-scripts start",
@@ -10,13 +10,13 @@
       "eject": "react-scripts eject"
     },
     "dependencies": {
-      "antd": "^4.0.0",
-      "@ant-design/icons": "^4.0.0",
-      "react-router-dom": "^5.0.0",
-      "@craco/craco": "^6.0.0",
-      "craco-less": "^1.0.0",
-      "axios": "^0.21.1",
-      "moment": "^2.29.1"
+      "antd": "^4.24.16",
+      "@ant-design/icons": "^4.8.3",
+      "react-router-dom": "^5.3.4",
+      "@craco/craco": "^6.4.5",
+      "craco-less": "^1.20.0",
+      "axios": "^0.21.4",
+      "moment": "^2.30.1"
     },
     "devDependencies": {
       "react-scripts": "4.0.3"
